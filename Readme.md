@@ -27,7 +27,7 @@ Save to File: Writes each candidate's details to a file, one candidate per line.
 Load from File: Reads each line from a file, parses the candidate details, and adds the candidate to the candidates vector.
 Screenshots:
 1.Main Menu
-![Снимок экрана (28)](https://github.com/quazalia/Voting-Ballot-Creator/assets/148089170/5e2111c1-3860-4752-a54a-2508cbdc822f)
+(https://github.com/quazalia/Voting-Ballot-Creator/assets/148089170/5e2111c1-3860-4752-a54a-2508cbdc822f)
 How to Use the Software
 Installation and Setup:
 Ensure you have a C++ compiler installed.
