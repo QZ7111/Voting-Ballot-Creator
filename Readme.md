@@ -59,3 +59,23 @@ The Voting Ballot Management System is a console-based application designed to m
    Run the compiled program, e.g.,/voting_ballot
 Follow the on-screen instructions to interact with the Voting Ballot Management System.Ensure that ballot.txt exists in the same directory to load the ballot data on start. The file will also be used to save the ballot data.
 
+### Features
+
+**1. Add Candidate:**  
+   Allows the user to input the details of a new candidate and add them to the ballot.
+
+**2. Update Candidate:**  
+   Enables the user to update the details (name and votes) of an existing candidate by providing the candidate's name and the new details.
+
+**3. Remove Candidate:**  
+   Provides the functionality to remove a candidate from the ballot by specifying the candidate's name.
+
+**4. Display Candidates:**  
+   Displays the list of all candidates in the ballot, sorted by the number of votes received.
+
+**5. Save Ballot to File:**  
+   Saves the current state of the ballot, including all candidates and their respective votes, to a file named "ballot.txt".
+
+**6. Load Ballot from File:**  
+   Loads the previously saved ballot from the "ballot.txt" file if it exists. This feature clears any existing candidates in memory and replaces them with the ones loaded from the file.
+
