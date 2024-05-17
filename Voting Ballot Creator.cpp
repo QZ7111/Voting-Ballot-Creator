@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <fstream>
-#include <algorithm> // Include for std::sort
+#include <algorithm>
 using namespace std;
 
 // Define a structure for candidate/option
