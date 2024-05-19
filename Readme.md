@@ -1,3 +1,4 @@
+[Presentation's link](https://docs.google.com/presentation/d/1mf7WAnRDQ06oL0pFJbInKFJ5Givn7sVeHwWlM3w-LbU/edit?usp=sharing)
 # Voting Ballot Management System
 
 ## Description
