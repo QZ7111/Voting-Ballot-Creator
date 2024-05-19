@@ -1,0 +1,3 @@
+Name: Donald Trump, Votes: 10
+Name: George Bush, Votes: 5
+Name: Richard Nixon, Votes: 2
