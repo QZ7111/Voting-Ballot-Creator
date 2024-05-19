@@ -1,8 +1,8 @@
 [Presentation's link](https://docs.google.com/presentation/d/1mf7WAnRDQ06oL0pFJbInKFJ5Givn7sVeHwWlM3w-LbU/edit?usp=sharing)
-# Voting Ballot Management System
+# Voting Ballot Creator
 
 ## Description
-The Voting Ballot Management System is a console-based application designed to manage a list of candidates and their votes in a ballot. It allows users to add, modify, and remove candidates, display the list of candidates, and save/load the ballot data from a file. This application is useful for small organizations or groups conducting informal elections or polls.
+The Voting Ballot Creator is a console-based application designed to manage a list of candidates and their votes in a ballot. It allows users to add, modify, and remove candidates, display the list of candidates, and save/load the ballot data from a file. This application is useful for small organizations or groups conducting informal elections or polls.
 
 ## Objectives
 - **Candidate Management**: Provide functions to add, update, and remove candidates from the ballot.
