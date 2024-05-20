@@ -31,7 +31,7 @@ The Voting Ballot Creator is a console-based application designed to manage a li
 - **Vector**: Used to store the collection of candidates.
 - **Struct Candidate**: Defines the attributes of a candidate (`name` and `votes`).
 
-### Algorithms
+### Functions
 - **Add Candidate**: Appends a new candidate to the candidates vector.
 - **Update Candidate**: Iterates through the candidates vector to find a candidate by their name and updates their details.
 - **Remove Candidate**: Iterates through the candidates vector to find a candidate by their name and removes them.
