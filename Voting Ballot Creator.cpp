@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <fstream>
-#include <algorithm>
+#include <algorithm> // Include for std::sort
 using namespace std;
 
 // Define a structure for candidate/option
@@ -122,7 +122,7 @@ int main() {
             string name;
             int votes = 0; // New candidates start with 0 votes
 
-            cout << "Enter candidate name: ";
+            cout << "Enter candidate's full name: ";
             cin.ignore();
             getline(cin, name);
 
